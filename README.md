@@ -22,8 +22,8 @@
         <ul>
             <li>🌱 <b>I’m currently learning</b>: Mechatronics Engineering and Web Development.</li>
             <li>🎯 <b>I’m currently focusing on</b>: Professional residency activities (Robotics).</li>
-            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://drive.google.com/file/d/1ltWgfMvobYFM5QzOzAtqnPPlJ7AMrurS/view?usp=sharing">LINK TO MY RESUME</a>.</li>
-            <li>😄 <b>Fun fact</b>: I love Music(🎧), Playing(🎮), Traveling(🌍), and Physics(🌌).</li>
+            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="">LINK TO MY RESUME</a>.</li>
+            <li>😄 <b>Fun fact</b>: I love Music(🎧), Playing(🎮), and Physics(🌌).</li>
         </ul>
 </div>
 
