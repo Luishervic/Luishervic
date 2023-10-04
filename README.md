@@ -6,7 +6,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there,+I'm+Luis+%F0%9F%91%8B;Mechatronics+Engineer;Back-End+Student(Globant);Problem+Solver;IA+Enthusiast" alt="Headline" />
     </div>
     <div align=center>
-        <a href="https://www.linkedin.com/in/luis-hern%C3%A1ndez-vicente/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+        <a href="https://www.linkedin.com/in/luishvic/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
         <a href="https://t.me/Luishervic"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
     </div>
     <div align=left>
